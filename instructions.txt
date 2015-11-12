@@ -1,4 +1,5 @@
 pip3 install openpyxl
 pip3 install -U googlemaps
-
+pip3 install geopy
+pip3 install python-igraph
 python3 setup.py py2app --packages=openpyxl,googlemaps,requests
