@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['near-address.py']
+APP = ['near-groups.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
